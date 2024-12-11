@@ -1,7 +1,8 @@
 .options{
  display: flex;
  gap: 12px;
- justify-content: center;
+ justify-content: start;
+ padding-bottom: 40px;
  
 }
 
